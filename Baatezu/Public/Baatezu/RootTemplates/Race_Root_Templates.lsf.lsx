@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3b687387-4abd-4eda-bd70-a61c8f2e068a" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Female_Baatezu" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="366faff6-1e72-45c8-8d03-4eeaee6444a4" /> base DGB reference
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="141e538d-c90f-47ec-96ac-e18627a5ed16" /> which models to load
+					<attribute id="Race" type="guid" value="91d54e01-f4e4-4e18-b9c0-7defb73526da" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="92b80d65-d0b1-4ccb-a84a-1a76a071608e" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="e636b883-32e3-48a4-8f38-05957e0aaae1" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Male_Baatezu" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="97ad09df-c188-4e39-bfd0-91c95c6379c4" /> base DBG reference
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b8a8f9b1-c3e7-4e4a-9e35-386cdcbd164a" /> which models to load
+					<attribute id="Race" type="guid" value="91d54e01-f4e4-4e18-b9c0-7defb73526da" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="92b80d65-d0b1-4ccb-a84a-1a76a071608e" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="7c4e8866-e514-4c65-953b-2d2f6133440d" /> must be unique
+					<attribute id="Name" type="LSString" value="Baatezu_Female_Orthon_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13bf8ba2-92ac-4a1f-9f20-9cccdd922bb4" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="Stats" type="FixedString" value="Playable_F_Baatezu" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="326de594-8d98-4430-82d2-a0cf3590948c" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+					<attribute id="Race" type="guid" value="299b7b0d-237c-4dca-9301-70e5ce4762fb" /> define race as Custom Race
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="556c2486-7a65-4a37-ad6a-a2301d4105cf" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="1979aa2c-da67-4b8b-87a6-2a7e7c78af5a" /> must be unique
+					<attribute id="Name" type="LSString" value="Baatezu_Male_Orthon_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e636b883-32e3-48a4-8f38-05957e0aaae1" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="Playable_M_Baatezu" /> dont change
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="24af4b59-6fa6-4352-95b2-500858a9478d" /> which models to load
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<attribute id="Race" type="guid" value="299b7b0d-237c-4dca-9301-70e5ce4762fb" /> define race as Custom Race
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="556c2486-7a65-4a37-ad6a-a2301d4105cf" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
