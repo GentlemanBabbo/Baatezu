@@ -677,7 +677,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 4Torso
-							<attribute id="MaterialID" type="FixedString" value="7a141b7c-eed4-043b-dace-9ce81c199bba" />
+							<attribute id="MaterialID" type="FixedString" value="e88885a0-cff7-7aab-ed13-e47d6db3325" />
 							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.4ORTHON_Cage_Mesh.3" />
 						</node>
 					</children>
