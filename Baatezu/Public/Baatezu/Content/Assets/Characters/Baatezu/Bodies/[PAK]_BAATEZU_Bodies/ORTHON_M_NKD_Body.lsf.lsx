@@ -295,7 +295,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="0db714ab-92ba-45b2-8783-705454b443f0" />
 					<attribute id="Name" type="LSString" value="Claw_Arm_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Claw_Arm_BM.DDS" />
@@ -308,7 +308,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="b8704c96-96e1-4579-acc2-99a93c5f24f6" />
 					<attribute id="Name" type="LSString" value="Claw_Arm_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Claw_Arm_NM.DDS" />
@@ -321,7 +321,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="0395f091-4b57-44e5-a547-44559c693366" />
 					<attribute id="Name" type="LSString" value="Claw_Arm_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Claw_Arm_PM.DDS" />
@@ -347,7 +347,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="dcba8f19-177f-465c-a23d-0c3266ac5f10" />
 					<attribute id="Name" type="LSString" value="Molten_Body_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Molten_Body_BM.DDS" />
@@ -360,7 +360,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="f8c8985d-9b24-4160-a63d-7a62c193e7c6" />
 					<attribute id="Name" type="LSString" value="Molten_Body_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Molten_Body_NM.DDS" />
@@ -373,7 +373,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="aa4b938c-44da-4692-a6a3-4421b8b87c4f" />
 					<attribute id="Name" type="LSString" value="Molten_Body_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Molten_Body_PM.DDS" />
@@ -399,7 +399,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="1b2dea10-53d0-47a6-a632-645b85e07b36" />
 					<attribute id="Name" type="LSString" value="Orthon_Body_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Body_CLEA.DDS" />
@@ -412,7 +412,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="3d1cde06-9915-4a97-bb90-fb385f08abbd" />
 					<attribute id="Name" type="LSString" value="Orthon_Body_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Body_HMVY.DDS" />
@@ -438,7 +438,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="372184dd-92a1-48d1-8349-87b32c225176" />
 					<attribute id="Name" type="LSString" value="Orthon_Body_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Body_NM.DDS" />
@@ -477,7 +477,20 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="5fec6a0d-ce26-46e2-bf40-e8b81af863ad" />
+					<attribute id="Name" type="LSString" value="Orthon_Face_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_NM.DDS />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Orthon_Face_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="dafce5fb-0601-491f-8f23-0bff9fb47e11" />
 					<attribute id="Name" type="LSString" value="Orthon_Face_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_HMVY.DDS />
@@ -490,7 +503,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="e0322b1a-38c7-4eff-be95-af3750624b06" />
 					<attribute id="Name" type="LSString" value="Orthon_Face_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_CLEA.DDS />
@@ -649,22 +662,22 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 1Arms
-							<attribute id="MaterialID" type="FixedString" value="55ccb166-5105-4ee1-857d-e839d9bf1ba8" />
+							<attribute id="MaterialID" type="FixedString" value="3432d167-5dd1-42d4-b744-02e38b75be60" />
 							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.1ORTHON_Body_A_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 2Back_Legs
-							<attribute id="MaterialID" type="FixedString" value="55ccb166-5105-4ee1-857d-e839d9bf1ba8" />
+							<attribute id="MaterialID" type="FixedString" value="81742c9a-3dcc-46c6-b683-db24f463c3b1" />
 							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.2ORTHON_Arm_Claw_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 3Blade
-							<attribute id="MaterialID" type="FixedString" value="81742c9a-3dcc-46c6-b683-db24f463c3b1" />
+							<attribute id="MaterialID" type="FixedString" value="55ccb166-5105-4ee1-857d-e839d9bf1ba8" />
 							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.3ORTHON_ArmP_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 4Torso
-							<attribute id="MaterialID" type="FixedString" value="3432d167-5dd1-42d4-b744-02e38b75be60" />
+							<attribute id="MaterialID" type="FixedString" value="7a141b7c-eed4-043b-dace-9ce81c199bba" />
 							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.4ORTHON_Cage_Mesh.3" />
 						</node>
 					</children>
