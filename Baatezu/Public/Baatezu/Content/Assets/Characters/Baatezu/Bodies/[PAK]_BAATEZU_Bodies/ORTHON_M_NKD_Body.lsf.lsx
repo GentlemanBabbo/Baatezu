@@ -454,7 +454,7 @@
 					<attribute id="ID" type="FixedString" value="" />
 					<attribute id="Name" type="LSString" value="Orthon_Face_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_BM.DDS />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Orthon_Face_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -467,7 +467,7 @@
 					<attribute id="ID" type="FixedString" value="" />
 					<attribute id="Name" type="LSString" value="Orthon_Face_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_PM.DDS />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Orthon_Face_PM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -480,7 +480,7 @@
 					<attribute id="ID" type="FixedString" value="5fec6a0d-ce26-46e2-bf40-e8b81af863ad" />
 					<attribute id="Name" type="LSString" value="Orthon_Face_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_NM.DDS />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Orthon_Face_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -493,7 +493,7 @@
 					<attribute id="ID" type="FixedString" value="dafce5fb-0601-491f-8f23-0bff9fb47e11" />
 					<attribute id="Name" type="LSString" value="Orthon_Face_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_HMVY.DDS />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Orthon_Face_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -506,7 +506,7 @@
 					<attribute id="ID" type="FixedString" value="e0322b1a-38c7-4eff-be95-af3750624b06" />
 					<attribute id="Name" type="LSString" value="Orthon_Face_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_CLEA.DDS />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Orthon_Face_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
