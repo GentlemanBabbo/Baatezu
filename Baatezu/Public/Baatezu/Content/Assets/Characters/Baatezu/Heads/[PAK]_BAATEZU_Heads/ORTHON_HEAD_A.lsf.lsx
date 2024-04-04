@@ -10,14 +10,14 @@
 					<attribute id="ID" type="FixedString" value="10d9f2b0-f489-4dca-b411-0b4b6b7c693b" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="ORTHON_MS_Head_Base" />
+					<attribute id="Name" type="LSString" value="ORTHON_M_Head_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_MS_Head_base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_M_Head_base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_MS_Head_base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_M_Head_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
@@ -2009,12 +2009,12 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="81eb74a2-085f-4185-b52d-212248af21ca" />
-					<attribute id="Name" type="LSString" value="dreadknight_head_BM" />
+					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="Name" type="LSString" value="Orthon_Face_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Demon/[PAK]_Demon_Body/CyberDemon_M_Body/dreadknight_head_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="dreadknight_head_BM" />
+					<attribute id="Template" type="FixedString" value="Orthon_Face_BM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -2022,12 +2022,12 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="12c898c4-678d-49aa-852a-f048dd87770b" />
-					<attribute id="Name" type="LSString" value="dreadknight_head_NM" />
+					<attribute id="ID" type="FixedString" value="" />
+					<attribute id="Name" type="LSString" value="Orthon_Face_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Demon/[PAK]_Demon_Body/CyberDemon_M_Body/dreadknight_head_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="dreadknight_head_NM" />
+					<attribute id="Template" type="FixedString" value="Orthon_Face_PM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -2035,12 +2035,38 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="574c40f2-3e32-40ec-b866-66ffb1f7ff82" />
-					<attribute id="Name" type="LSString" value="dreadknight_head_PM" />
+					<attribute id="ID" type="FixedString" value="5fec6a0d-ce26-46e2-bf40-e8b81af863ad" />
+					<attribute id="Name" type="LSString" value="Orthon_Face_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Demon/[PAK]_Demon_Body/CyberDemon_M_Body/dreadknight_head_PM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="dreadknight_head_PM" />
+					<attribute id="Template" type="FixedString" value="Orthon_Face_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="dafce5fb-0601-491f-8f23-0bff9fb47e11" />
+					<attribute id="Name" type="LSString" value="Orthon_Face_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Orthon_Face_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="e0322b1a-38c7-4eff-be95-af3750624b06" />
+					<attribute id="Name" type="LSString" value="Orthon_Face_CLEA" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_Face_CLEA.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Orthon_Face_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -2118,33 +2144,43 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="096d5756-9d57-422d-ae1f-1c00560dc12e" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.1_CYD_M_NKD_Head_Sarevok_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="30103228-258d-4a70-ac30-210e7b225199" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.1_ORTHON_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.2_CYD_M_NKD_Head_Sarevok_Mouth_Interior_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="283ba5b9-eddd-277c-6b76-27c7d67b5fad" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.2_ORTHON_Head_A_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.3_CYD_M_NKD_Head_Sarevok_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.3_HUM_MS_NKD_Head_A_Remap_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="891a71f8-e6dd-4c23-b938-8a0d84cc2be7" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.4_CYD_M_NKD_Head_Sarevok_Cyberparts.3" />
+							<attribute id="MaterialID" type="FixedString" value="30103228-258d-4a70-ac30-210e7b225199" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.4_ORTHON_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="8089f3a7-638b-1768-b6a4-43e1b0892e23" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.5_CYD_M_NKD_Head_Sarevok_Tearline_Mesh.4" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.5_HUM_MS_NKD_Head_A_Remap_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.6_CYD_M_NKD_Head_Sarevok_Eyeshadow_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.6_HUM_MS_NKD_Head_A_Remap_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.7_HUM_MS_NKD_Head_A_Remap_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="e88885a0-cff7-7aab-ed13-e47d6db3325" />
+							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.8_ORTHON_Horns_A_Mesh.7" />
 						</node>
 					</children>
 				</node>
