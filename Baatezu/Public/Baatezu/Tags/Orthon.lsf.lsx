@@ -4,8 +4,8 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Orthon" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hb803b92eg6684g4c95g903eg2de087e812cb" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h83f61509g1ef8g441dg9dbcg0dbe6f8d8d15" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="Orthon" />
 			<attribute id="UUID" type="guid" value="556c2486-7a65-4a37-ad6a-a2301d4105cf" />
