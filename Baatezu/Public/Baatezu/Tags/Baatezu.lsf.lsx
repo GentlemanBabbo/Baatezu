@@ -4,8 +4,8 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Baatezu" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hf084aca0g0daeg44e1g9e8fg2c702dfb01f4" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h1d3e5354g5676g422bgba0ag1add5e33e9a8" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="Baatezu" />
 			<attribute id="UUID" type="guid" value="92b80d65-d0b1-4ccb-a84a-1a76a071608e" />
