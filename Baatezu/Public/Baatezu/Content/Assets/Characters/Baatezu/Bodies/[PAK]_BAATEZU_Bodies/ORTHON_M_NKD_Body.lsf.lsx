@@ -762,19 +762,14 @@
 							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.1ORTHON_Body_A_Mesh.0" />
 						</node>
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 2Back_Legs
-							<attribute id="MaterialID" type="FixedString" value="81742c9a-3dcc-46c6-b683-db24f463c3b1" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.2ORTHON_Arm_Claw_Mesh.1" />
-						</node>
-						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 3Blade
 							<attribute id="MaterialID" type="FixedString" value="55ccb166-5105-4ee1-857d-e839d9bf1ba8" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.3ORTHON_ArmP_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.3ORTHON_ArmP_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 4Torso
 							<attribute id="MaterialID" type="FixedString" value="e88885a0-cff7-7aab-ed13-e47d6db3325" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.4ORTHON_Cage_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.4ORTHON_Cage_Mesh.2" />
 						</node>
 					</children>
 				</node>
