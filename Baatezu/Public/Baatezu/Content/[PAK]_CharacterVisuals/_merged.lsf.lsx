@@ -105,12 +105,12 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="555b1e26-9a79-c11b-134d-a557b317bd93" />
+							<attribute id="VisualResource" type="FixedString" value="64e15eb8-4373-4d94-9999-22770ceebb9b" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="fc10a6df-b9f3-79f3-eacc-b7fa7c27690a" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-00000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -162,17 +162,17 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="8f4745d5-05f9-5b10-bc55-a60ac40d985e" />
+							<attribute id="VisualResource" type="FixedString" value="64e15eb8-4373-4d94-9999-22770ceebb9b" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-00000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
 							<attribute id="VisualResource" type="FixedString" value="aa5de80e-ae92-33b0-b32f-0119db775761" />
-						</node>
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="a35b4354-5c1d-f299-e5d4-606cf11bf76f" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
