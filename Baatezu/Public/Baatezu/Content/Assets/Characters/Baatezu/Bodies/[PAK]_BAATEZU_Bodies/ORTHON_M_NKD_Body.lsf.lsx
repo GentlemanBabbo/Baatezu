@@ -832,7 +832,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 3Blade
-							<attribute id="MaterialID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
+							<attribute id="MaterialID" type="FixedString" value="55ccb166-5105-4ee1-857d-e839d9bf1ba8" />
 							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.3ORTHON_ArmP_Mesh.1" />
 						</node>
 						<node id="Objects">
