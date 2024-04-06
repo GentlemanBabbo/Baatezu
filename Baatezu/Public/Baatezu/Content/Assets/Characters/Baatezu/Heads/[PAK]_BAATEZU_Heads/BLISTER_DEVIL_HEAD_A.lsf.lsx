@@ -2115,16 +2115,16 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="64e15eb8-4373-4d94-9999-22770ceebb9b" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="ORTHON_MS_Head_A" />
+					<attribute id="Name" type="LSString" value="Blister_Devil_MS_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="658fd10c-b8b2-4e47-214e-959e591b6881" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_Head/Orthon_M_Head_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Blister_Devil_Head/Blister_Devil_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_Head/Orthon_M_Head_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Blister_Devil_Head/Blister_Devil_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -2144,38 +2144,33 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="30103228-258d-4a70-ac30-210e7b225199" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.1_ORTHON_Head_A_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_Head_A.1DB_M_NKD_Head_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="283ba5b9-eddd-277c-6b76-27c7d67b5fad" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.2_ORTHON_Head_A_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_Head_A.2DB_Head_A_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.3_HUM_MS_NKD_Head_A_Remap_Eyes_Mesh.2" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="30103228-258d-4a70-ac30-210e7b225199" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.4_ORTHON_Head_A_Ears_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_Head_A.3DB_MS_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.5_HUM_MS_NKD_Head_A_Remap_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_Head_A.4DB_MS_NKD_Head_A_Eyeshadow_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_Head_A.5DB_MS_NKD_Head_A_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.6_HUM_MS_NKD_Head_A_Remap_Eyelashes_Mesh.5" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="DK_M_Head_A.7_HUM_MS_NKD_Head_A_Remap_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_Head_A.6DB_MS_NKD_Head_A_Eyelashes_Mesh.5" />
 						</node>
 					</children>
 				</node>
