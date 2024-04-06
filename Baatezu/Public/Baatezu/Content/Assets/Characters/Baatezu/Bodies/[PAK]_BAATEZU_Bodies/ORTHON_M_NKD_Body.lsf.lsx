@@ -8,6 +8,36 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="Colorable_BlisterDevil_Skin" />
+                 			<attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Materials/Characters/CHAR_Skin_Body_DGB.lsf" />
+					<children>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="d133d6a0-1050-4516-b153-5625190f7551" /> POINTS TO NORMAL MAP
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="c4136229-c66e-41fb-965d-c73f109a3af1" /> HMVY Map
+							<attribute id="ParameterName" type="FixedString" value="HMVY" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="3c2a6e63-c8a7-46fe-9798-c35a0c757d9c" /> CLEA Map
+							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+						</node>
+					</children>
+				</node>
+			<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
+					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Colorable_ORTHON_Skin_Horns" />
                    			<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
 					<children>
@@ -421,6 +451,45 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="d133d6a0-1050-4516-b153-5625190f7551" />
+					<attribute id="Name" type="LSString" value="Blister_Demon_Beetle_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Demon_Beetle_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Blister_Demon_Beetle_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="c4136229-c66e-41fb-965d-c73f109a3af1" />
+					<attribute id="Name" type="LSString" value="Blister_Demon_Beetle_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Demon_Beetle_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Blister_Demon_Beetle_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="3c2a6e63-c8a7-46fe-9798-c35a0c757d9c" />
+					<attribute id="Name" type="LSString" value="Blister_Demon_Beetle_CLEA" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Demon_Beetle_CLEA.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Blister_Demon_Beetle_CLEA" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="b5b239b2-1e3c-4983-82fd-7ffcb7bfdd43" />
 					<attribute id="Name" type="LSString" value="Orthon_Horn_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
@@ -696,7 +765,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="16cfd01e-9eb9-4a13-ab3a-f94230f694e2" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="ORTHON_M_NKD_Body" />
+					<attribute id="Name" type="LSString" value="Blister_Devil_M_NKD_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -704,9 +773,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="e80f5bba-dae0-fdea-1874-ba11c52906c3" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_M_NKD_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Devil_M_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Orthon_M_Body/Orthon_M_NKD_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Devil_M_NKD_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>						
 						<node id="AnimationSetOverrides">
@@ -826,19 +895,24 @@
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 1Arms
-							<attribute id="MaterialID" type="FixedString" value="3432d167-5dd1-42d4-b744-02e38b75be60" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.1ORTHON_Body_A_Mesh.0" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 3Blade
-							<attribute id="MaterialID" type="FixedString" value="55ccb166-5105-4ee1-857d-e839d9bf1ba8" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.3ORTHON_ArmP_Mesh.1" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 4Torso
+							<attribute id="LOD" type="uint8" value="0" /> 1Foot
 							<attribute id="MaterialID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.4ORTHON_Cage_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_M_NKD_Body.1Foot1.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> 1Shoulder
+							<attribute id="MaterialID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_M_NKD_Body.2Shoulder1.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> 1Hand
+							<attribute id="MaterialID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_M_NKD_Body.3Hand1.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> 1Torso
+							<attribute id="MaterialID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
+							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_M_NKD_Body.4Torso1.0" />
 						</node>
 					</children>
 				</node>
