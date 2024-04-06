@@ -22,15 +22,15 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="c4136229-c66e-41fb-965d-c73f109a3af1" /> HMVY Map
-							<attribute id="ParameterName" type="FixedString" value="HMVY" />
+							<attribute id="ID" type="FixedString" value="c4136229-c66e-41fb-965d-c73f109a3af1" /> BM
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="3c2a6e63-c8a7-46fe-9798-c35a0c757d9c" /> CLEA Map
-							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+							<attribute id="ID" type="FixedString" value="3c2a6e63-c8a7-46fe-9798-c35a0c757d9c" /> PM
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 						</node>
 					</children>
 				</node>
@@ -465,11 +465,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="c4136229-c66e-41fb-965d-c73f109a3af1" />
-					<attribute id="Name" type="LSString" value="Blister_Demon_Beetle_HMVY" />
+					<attribute id="Name" type="LSString" value="Blister_Demon_Beetle_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Demon_Beetle_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Demon_Beetle_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Blister_Demon_Beetle_HMVY" />
+					<attribute id="Template" type="FixedString" value="Blister_Demon_Beetle_BM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -478,11 +478,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="3c2a6e63-c8a7-46fe-9798-c35a0c757d9c" />
-					<attribute id="Name" type="LSString" value="Blister_Demon_Beetle_CLEA" />
+					<attribute id="Name" type="LSString" value="Blister_Demon_Beetle_PM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Demon_Beetle_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Body/Blister_Devil_Body/Blister_Demon_Beetle_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Blister_Demon_Beetle_CLEA" />
+					<attribute id="Template" type="FixedString" value="Blister_Demon_Beetle_PM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
