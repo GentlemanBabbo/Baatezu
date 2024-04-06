@@ -9,7 +9,7 @@
 					<attribute id="ID" type="FixedString" value="bf3273f1-7b75-4612-a148-e23b64135c7a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Colorable_BlisterDevil_Skin" />
-                 	<attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Materials/Characters/CHAR_Skin_Body_DGB.lsf" />
+                   	<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Horns.lsf" />
 					<children>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
