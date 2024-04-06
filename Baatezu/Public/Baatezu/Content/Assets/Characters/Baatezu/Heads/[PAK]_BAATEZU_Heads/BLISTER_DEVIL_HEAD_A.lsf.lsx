@@ -2144,7 +2144,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9145c306-a9be-4188-89fb-3da2813d269f" />
+							<attribute id="MaterialID" type="FixedString" value="bf3273f1-7b75-4612-a148-e23b64135c7a" />
 							<attribute id="ObjectID" type="FixedString" value="Blister_Devil_Head_A.1DB_M_NKD_Head_Mesh.0" />
 						</node>
 						<node id="Objects">
