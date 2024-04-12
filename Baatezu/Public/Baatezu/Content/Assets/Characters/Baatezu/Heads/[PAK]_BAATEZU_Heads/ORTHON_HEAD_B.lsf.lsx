@@ -1571,9 +1571,9 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="fae1f1ea-1183-40b6-b988-1407d0caf00aa" />
+					<attribute id="ID" type="FixedString" value="2e84520a-9923-4e3b-beda-7a73bd26a01f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="ORTHON_MS_Head_A" />
+					<attribute id="Name" type="LSString" value="ORTHON_MS_Head_B" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
@@ -2124,9 +2124,9 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="1457f548-68f8-4093-9d9f-eec532d7ecf9" />
+					<attribute id="ID" type="FixedString" value="b345dc82-e1f9-4884-87aa-f1c2ae408fb3" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="ORTHON_MS_Head_A" />
+					<attribute id="Name" type="LSString" value="ORTHON_MS_Head_B" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SourceFile" type="LSString" value="" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
@@ -2159,7 +2159,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="64e15eb8-4373-4d94-9999-22770ceebb9b" />
+					<attribute id="ID" type="FixedString" value="f5d5616e-bf94-4050-8a21-f33fdd686579" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="Orthon_MS_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -2168,9 +2168,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_Head/Orthon_M_Head_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_Head/Orthon_M_Head_B.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_Head/Orthon_M_Head_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Baatezu/[PAK]_Baatezu_Head/Orthon_Head/Orthon_M_Head_B.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -2191,37 +2191,22 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="30103228-258d-4a70-ac30-210e7b225199" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_A.1_ORTHON_Head_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_B.1OGRE_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="283ba5b9-eddd-277c-6b76-27c7d67b5fad" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_A.2_ORTHON_Head_A_Mouth_Interior_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="327a8718-59e2-9718-2e47-d6ab936be9e6" />
+							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_B.2OGRE_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_A.3_HUM_MS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_B.3OGRE_M_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="30103228-258d-4a70-ac30-210e7b225199" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_A.4_ORTHON_Head_A_Ears_Mesh.3" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_A.5_HUM_MS_NKD_Head_A_Remap_Tearline_Mesh.5" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_A.6DB_MS_NKD_Head_A_Eyelashes_Mesh.6" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_A.4DB_MS_NKD_Head_A_Eyeshadow_Mesh.7" />
+							<attribute id="ObjectID" type="FixedString" value="Orthon_M_Head_B.4OGRE_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 					</children>
 				</node>
