@@ -9,7 +9,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hbcab9667g1f89g4dacgb329gd4168a50b62c" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="91d54e01-f4e4-4e18-b9c0-7defb73526da"/>
 					The UUID for the race you're making the head for. See below for a list.
@@ -18,11 +18,11 @@
 					<attribute id="VisualResource" type="guid" value="64e15eb8-4373-4d94-9999-22770ceebb9b"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-				<node id="CharacterCreationAppearanceVisual"> Orthon - C
+				<node id="CharacterCreationAppearanceVisual"> Orthon - B
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h150b4661g4c38g4565g8692g170f97906995" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="91d54e01-f4e4-4e18-b9c0-7defb73526da"/>
 					The UUID for the race you're making the head for. See below for a list.
