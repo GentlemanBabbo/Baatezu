@@ -10,7 +10,7 @@
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
             <attribute id="Name" type="FixedString" value="Baatezu" />       internal name for race
             <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" />      subrace of Humanoid, dont touch
-            <attribute id="ProgressionTableUUID" type="guid" value="00000000-0000-0000-0000-000000000000" />    the level up stuff under the Progressions folder, diff from subrace
+            <attribute id="ProgressionTableUUID" type="guid" value="cfbc646e-c5b2-43c8-9b2c-7e48173e1346" />    the level up stuff under the Progressions folder, diff from subrace
             <attribute id="RaceSoundSwitch" type="FixedString" value="Orc" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="91d54e01-f4e4-4e18-b9c0-7defb73526da" /> Race UUID, keep this for adding hairs etc
                 <children>
@@ -2629,7 +2629,7 @@
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
             <attribute id="Name" type="FixedString" value="Orthon" />       internal name for subrace
             <attribute id="ParentGuid" type="guid" value="91d54e01-f4e4-4e18-b9c0-7defb73526da" />      subrace of Custom Race Main
-            <attribute id="ProgressionTableUUID" type="guid" value="00000000-0000-0000-0000-000000000000" />    the level up stuff under the Progressions folder, diff from main race
+            <attribute id="ProgressionTableUUID" type="guid" value="3364f551-7e15-4b7e-8a8e-bd89c035bd7d" />    the level up stuff under the Progressions folder, diff from main race
             <attribute id="RaceSoundSwitch" type="FixedString" value="Orc" />           sound it makes when you select the subrace
             <attribute id="UUID" type="guid" value="299b7b0d-237c-4dca-9301-70e5ce4762fb" /> Race UUID, keep this for adding hairs etc
                 <children>                 
