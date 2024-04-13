@@ -1,0 +1,24 @@
+<!--------------------- Baatezu Passives --------------------->
+
+new entry "Passive_BaatezuHidden"
+type "PassiveData"
+data "Icon" "statIcons_HillGiantsMight"
+data "DisplayName" ""
+data "Description" ""
+data "Boosts" "ActionResource(Movement,9,0);CarryCapacityMultiplier(1.5)"
+
+new entry "Playable_M_Baatezu"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "Weight" "135"
+data "StepsType" "Bare"
+
+new entry "Playable_F_Baatezu"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "Weight" "135"
+data "StepsType" "Bare"
+
+<!--------------------- Baatezu Spells --------------------->
