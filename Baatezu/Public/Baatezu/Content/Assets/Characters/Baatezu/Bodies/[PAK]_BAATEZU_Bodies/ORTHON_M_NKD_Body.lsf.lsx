@@ -779,16 +779,6 @@
 							<attribute id="MaterialID" type="FixedString" value="3432d167-5dd1-42d4-b744-02e38b75be60" />
 							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.1ORTHON_Body_A_Mesh.0" />
 						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 1Shoulder
-							<attribute id="MaterialID" type="FixedString" value="bf3273f1-7b75-4612-a148-e23b64135c7a" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.2Shoulder1.0" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 1Hand
-							<attribute id="MaterialID" type="FixedString" value="bf3273f1-7b75-4612-a148-e23b64135c7a" />
-							<attribute id="ObjectID" type="FixedString" value="Orthon_M_NKD_Body.3Hand1.0" />
-						</node>
 					</children>
 				</node>
 			</children>
